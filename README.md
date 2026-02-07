@@ -95,11 +95,3 @@ The dataset used in this project is publicly available and intended strictly for
 
 ---
 
-## Author
-
-**Vignesh**
-Aspiring Data Analyst | Power BI | Python | SQL
-
----
-
-⭐ If you find this project useful, consider giving the repository a star!
